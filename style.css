@@ -1,0 +1,37 @@
+.siblings{
+background-color: rgb(0, 0, 0);
+border: black;
+border-style: double;
+box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+font-size: 10px;
+font-family: 'Luckiest Guy', cursive;
+letter-spacing: 3px;
+color: rgb(0, 0, 0);
+cursor: grab;
+}
+
+
+#Angelic:hover{
+    color: blueviolet;
+    box-shadow: black;
+    text-shadow: black;
+    cursor: pointer;
+    background-image: url(https://th.bing.com/th/id/OIP.QGJpvx1h5Bd_tIuL5WX08AHaEK?pid=ImgDet&rs=1);
+}
+
+#Andriek:hover{
+    color: rgb(43, 46, 226);
+    box-shadow: black;
+    text-shadow: black;
+    cursor: pointer;
+    background-image: url(https://th.bing.com/th/id/OIP.QGJpvx1h5Bd_tIuL5WX08AHaEK?pid=ImgDet&rs=1);
+}
+
+#Alex:hover{
+    color: rgb(26, 149, 33);
+    box-shadow: black;
+    text-shadow: black;
+    cursor: pointer;
+    background-image: url(https://th.bing.com/th/id/OIP.QGJpvx1h5Bd_tIuL5WX08AHaEK?pid=ImgDet&rs=1);
+}
